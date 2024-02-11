@@ -96,46 +96,46 @@
         parallel - параллельная проекция.
             Проекция представляет собой бесконечное расстояние между центром проекции и проекционной плоскостью.
             
-![Alt text](1.png)   
+![Alt text](src/specification/1.png)   
 
 
         central - центральная проекция.
                 Проекция представляет собой конечное расстояние между центром проекции и проекционной плоскостью.
     
 
-![Alt text](2.png) 
+![Alt text](src/specification/2.png) 
     
 2)EDGE TYPE - задать тип отображения линий.
     
         continuous - отображение прямой линией.
         
-![Alt text](3.png)
+![Alt text](src/specification/3.png)
         
         dotted - отображение пунктирной линией. 
        
-![Alt text](4.png)       
+![Alt text](src/specification/4.png)       
         
 3)DISPLAY WAY - отображение типа.
 
         circle - отображение кругами.
         
-![Alt text](5.png) 
+![Alt text](src/specification/5.png) 
 
         square - отображение квадратами.
         
-![Alt text](6.png) 
+![Alt text](src/specification/6.png) 
         
 4)EDGE COLOR - задать цвет ребрам модели.
     
 5)EDGE THICKNESS - задать размер ребрам модели.
     
-![Alt text](7.png) 
+![Alt text](src/specification/7.png) 
 
 6)VERTICES COLOR - задать цвет вершинам модели.
     
 7)VERTICES THICKNESS - задать размер вершинам модели.
     
-![Alt text](8.png) 
+![Alt text](src/specification/8.png) 
     
 8)BACKGROUND COLOR - задать цвет фона. 
     
